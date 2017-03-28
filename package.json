@@ -1,7 +1,7 @@
 {
-  "name": "leaflet",
+  "name": "leaflet-legacy",
   "version": "0.7.7",
-  "description": "JavaScript library for mobile-friendly interactive maps",
+  "description": "Legacy copy of Leaflet 0.7.7",
   "devDependencies": {
     "copyfiles": "^0.2.1",
     "happen": "~0.2.0",
@@ -24,7 +24,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/Leaflet/Leaflet.git"
+    "url": "git://github.com/Stonelinks/Leaflet.git"
   },
   "keywords": [
     "gis",
